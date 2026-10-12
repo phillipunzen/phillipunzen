@@ -1,5 +1,5 @@
 <h1 align="center">Hej 👋, I'm Phillip Unzen</h1>
-<h3 align="center">IT-Sysadmin and Hobby Developer from Germany with a love to Sweden</h3>
+<h3 align="center">IT-Sysadmin and Hobby Developer from Germany</h3>
 
 - 🌱 I’m currently learning **Elasticstack and Python**
 
